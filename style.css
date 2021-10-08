@@ -1,0 +1,20 @@
+h1{
+    color:rgb(147, 197, 182);
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+}
+
+a{
+    text-decoration: none;
+    display: inline-block;
+    margin-right: 2%;
+}
+
+p{
+    font-family: 'Noto Sans Display', sans-serif;
+    font-size: 15px;
+}
+ul{
+    font-family: 'Noto Sans Display', sans-serif;
+    font-size: 15px;
+}
